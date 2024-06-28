@@ -698,6 +698,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2024-06-26 16:47:44 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-06-22 14:08:19 +0800"
@@ -869,6 +875,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-06-22 11:48:53 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "map": "2024-06-26 16:38:16 +0800"
     },
     "done": true
   },
@@ -1498,6 +1510,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2024-06-26 16:38:16 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-06-25 11:18:58 +0800"
@@ -1543,6 +1561,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-06-23 19:19:55 +0800"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map": "2024-06-26 16:38:16 +0800"
     },
     "done": true
   },
@@ -2311,6 +2335,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-06-22 12:05:01 +0800"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2024-06-26 16:47:44 +0800"
     },
     "done": true
   },

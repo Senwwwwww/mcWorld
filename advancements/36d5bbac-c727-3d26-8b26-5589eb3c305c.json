@@ -1252,6 +1252,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-06-26 13:02:09 +0800"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-06-22 12:34:46 +0800"
@@ -1930,6 +1936,7 @@
       "forest": "2024-06-22 12:21:27 +0800",
       "swampland": "2024-06-22 16:29:45 +0800",
       "birch_forest": "2024-06-22 16:08:25 +0800",
+      "deep_ocean": "2024-06-26 11:38:29 +0800",
       "beaches": "2024-06-24 20:13:38 +0800",
       "extreme_hills_with_trees": "2024-06-22 12:58:02 +0800",
       "desert_hills": "2024-06-22 13:31:05 +0800",
@@ -1939,6 +1946,7 @@
       "taiga": "2024-06-22 12:10:45 +0800",
       "taiga_hills": "2024-06-22 12:21:20 +0800",
       "birch_forest_hills": "2024-06-22 16:09:58 +0800",
+      "ocean": "2024-06-26 11:31:55 +0800",
       "extreme_hills": "2024-06-22 12:53:38 +0800",
       "roofed_forest": "2024-06-22 13:09:26 +0800",
       "river": "2024-06-22 12:21:26 +0800",
